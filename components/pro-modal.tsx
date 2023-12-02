@@ -56,8 +56,7 @@ export const ProModal = () => {
           </DialogTitle>
           <DialogDescription className="text-center space-y-2">
             Create
-            <span className="text-sky-500 mx-1 font-medium">Custom AI</span>
-            Companions!
+            <span className="text-sky-500 mx-1 font-medium">IAmigo</span>
           </DialogDescription>
         </DialogHeader>
         <Separator />

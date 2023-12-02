@@ -41,10 +41,10 @@ export async function GET() {
       line_items: [
         {
           price_data: {
-            currency: "USD",
+            currency: "BRL",
             product_data: {
-              name: "Companion Pro",
-              description: "Create Custom AI Companions"
+              name: "IAmigo",
+              description: "Crie seu amigo personalizado"
             },
             unit_amount: 999,
             recurring: {
